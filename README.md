@@ -1,5 +1,5 @@
 # About
-The Communote localization plugins add additional langauges to [Communote](https://github.com/Communote/communote-server) and provide 
+The Communote localization plugins add additional languages to [Communote](https://github.com/Communote/communote-server) and provide 
 translations of the web frontend in these languages. The available languages are:
 
 * Spanish (see communote-localization-spanish)
@@ -7,14 +7,13 @@ translations of the web frontend in these languages. The available languages are
 * Italian (see communote-localization-italian)
 * Russian (communote-localization-russian - this translation is only a stub)
 
-The translations which are not 100% complete are focussed on the main web frontend. The administration section is typically not translated. 
+The translations which are not 100% complete are focused on the main web frontend. The administration section is typically not translated. 
 Untranslated messages will be shown in English.
 
 # Compatibility
 The plugin can be used with a Communote standalone installation and the Communote SaaS platform.
 
-The following table shows which Communote server versions are supported by a specific version of the plugins. A server version which is not 
-listed cannot be uses with the plugin.
+The following table shows which Communote server versions are supported by a specific version of the plugins. A server version which is not listed cannot be used with the plugin.
 
 | Plugin Version  | Supported Server Version |
 | ------------- | ------------- |
