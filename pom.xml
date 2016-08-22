@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <parent>
+        <groupId>com.communote.plugins</groupId>
+		<artifactId>communote-plugins-parent</artifactId>
+        <version>3.4</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>communote-localization-build</artifactId>
+    <packaging>pom</packaging>
+    <name>Communote - Plugins - Localizations - Build</name>
+    <description>This plugin builds all localizations.</description>
+    <modules>
+        <module>communote-localization-italian</module>
+        <module>communote-localization-french</module>
+        <module>communote-localization-russian</module>
+        <module>communote-localization-spanish</module>
+    </modules>
+    <build>
+        <defaultGoal>package</defaultGoal>
+    </build>
+</project>
