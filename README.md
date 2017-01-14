@@ -17,7 +17,7 @@ The following table shows which Communote server versions are supported by a spe
 
 | Plugin Version  | Supported Server Version |
 | ------------- | ------------- |
-| 3.4  | 3.2, 3.4  |
+| 3.4  | 3.2, 3.4.x  |
 
 # Installation and Usage
 To install one of the localization plugins get a release from the [Releases](https://github.com/Communote/communote-plugins-localization/releases) 
